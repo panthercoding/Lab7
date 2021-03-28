@@ -26,7 +26,7 @@ public class HospitalRunner{
           else{
             System.out.println("Patient Allocation Failed");
           }
-          System.out.println("Hospital Wards: " + clinic.getWards());
+          System.out.println("Hospital Wards: " + clinic.getWards() + "\n");
       }
     }
 
